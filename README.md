@@ -40,7 +40,11 @@ marker-border      |
 Media in this project:
 ===========
 max-width: 1199px
+-----------
 max-width: 991px
+-----------
 max-width: 767px
+-----------
 min-width: 768px
+-----------
 max-width: 479px
