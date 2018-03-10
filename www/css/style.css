@@ -93,7 +93,6 @@ a{
     color: inherit;
     text-decoration: none;
 }
-
 .title {
     padding-bottom: 75px;
     text-transform: uppercase;
@@ -101,11 +100,9 @@ a{
 .title h2 {
     letter-spacing: .5em;
 }
-
 .section-small{
     padding-top: 70px !important;
 }
-
 .section-light {
     color: #777;
     background: #fff;
@@ -138,7 +135,6 @@ blockquote .author {
 .text {
     line-height: 26px;
 }
-
 .btn-dark {
     color: #fff;
     background: #111;
@@ -205,8 +201,6 @@ blockquote .author {
         padding-bottom: 40px;
     }
 }
-
-
 /* CUSTOM STYLES */
 /* HEADER START*/
 .header {
@@ -228,7 +222,6 @@ blockquote .author {
 .name-dir > span {
     letter-spacing: normal;
 }
-
 .name-dir{
     text-align: right;
     font: 12px 'open-sans-semibold', sans-serif;
@@ -253,7 +246,6 @@ blockquote .author {
     display: block;
     float: left;
 }
-
 #menu li + li{
     margin-left: 35px;
 }
@@ -336,7 +328,6 @@ h1 > span{
     margin-top: 100px;
     margin-bottom: 100px;
 }
-
 .home-page .marker-light{
     position: absolute;
     right: 50%;
@@ -345,13 +336,11 @@ h1 > span{
     width: 20px;
     height: 20px;
 }
-
 .home-page .fa-angle-down {
     position: absolute;
     top: 7px;
     right: 2px;
 }
-
 @media (max-width: 1199px) {
     .home-page h1 {
         margin-top: 130px;
@@ -382,7 +371,6 @@ h1 > span{
         margin-left: 22px;
     }
 }
-
 @media (max-width: 479px) {
     .home-page h1 {
         letter-spacing: .1em;
@@ -406,7 +394,6 @@ h1 > span{
 .about-studio .photo img {
     filter: grayscale(100%);
 }
-
 .about-studio .name,
 .about-studio .position {
     display: block;
@@ -499,7 +486,6 @@ h1 > span{
         margin-top: 3px;
     }
 }
-
 @media (max-width: 991px) {
     .about-studio .title {
         padding-bottom: 60px;
@@ -547,9 +533,7 @@ h1 > span{
         padding-bottom: 40px;
     }
 }
-
 /* ABOUT STUDIO END */
-
 /* SERVICES START */
 .services {
     padding-bottom: 140px;
@@ -581,7 +565,6 @@ h1 > span{
         margin-top: 20px;
     }
 }
-
 @media (max-width: 991px) {
     blockquote .author {
         margin-top: 15px;
@@ -628,7 +611,6 @@ h1 > span{
     }
 }
 /* SERVICES END */
-
 /* LETS-TALK START*/
 .lets-talk{
     height: 304px;
@@ -647,12 +629,10 @@ h1 > span{
     color: rgba(255, 255, 255, .7);
     /*margin-bottom: 45px;*/
 }
-
 .lets-talk .btn-light {
     background: #cfcfcf;
     color: #111;
 }
-
 .lets-talk .btn-default{
     border-radius: 2px;
     padding: 13px 42px 13px 40px;
@@ -663,7 +643,6 @@ h1 > span{
     line-height: 1;
     margin-bottom: 139px;
 }
-
 .lets-talk .btn-default:hover{
     color: grey;
 }
@@ -700,12 +679,10 @@ h1 > span{
     }
 }
 /* LETS-TALK END*/
-
 /* PORTFOLIO START*/
 .portfolio-title {
     margin-bottom: 85px;
 }
-
 .portfolio h2{
     font: 18px 'dosis-regular', sans-serif;
     letter-spacing: 0.5em;
@@ -713,13 +690,11 @@ h1 > span{
     color: #111111;
     text-transform: uppercase;
 }
-
 .portfolio p{
     max-width: 760px;
     margin: 0 auto;
     margin-bottom: 87px;
 }
-
 .portfolio .nav-tabs {
     border: none;
 }
@@ -731,7 +706,6 @@ h1 > span{
     padding: 0 34px;
     margin: 0;
 }
-
 .portfolio .nav-tabs li {
     float: none;
     text-align: center;
@@ -743,11 +717,9 @@ h1 > span{
 .portfolio .nav-tabs {
     margin-bottom: 50px;
 }
-
 .portfolio .pf-photo {
     overflow: hidden;
 }
-
 .portfolio .pf-content{
     margin-right: -4px;
     margin-left: -4px;
@@ -767,7 +739,6 @@ h1 > span{
     width: 100%;
     height: auto;
 }
-
 @media (max-width: 991px) {
     .portfolio h2{
         margin-bottom: 30px;
@@ -801,12 +772,10 @@ h1 > span{
     }
 }
 /* PORTFOLIO END*/
-
 /* START-PROJECT START*/
 .start-project {
     position: relative;
 }
-
 .start-project .title {
     padding: 0;
 }
@@ -837,7 +806,6 @@ h1 > span{
     background: #d2d2d2;
     text-decoration: none;
 }
-
 .start-project .hovered {
     position: absolute;
     top: 0;
@@ -850,19 +818,13 @@ h1 > span{
     transition: opacity .3s;
     /*overflow: hidden;*/
 }
-/*.start-project .hovered img {*/
-    /*min-width: 100%;*/
-    /*min-height: 100%;*/
-/*}*/
 .start-project:hover .hovered {
     opacity: 1;
 }
 .start-project .container {
     position: relative;
-    /*z-index: 1;*/
 }
 /* START-PROJECT END */
-
 /* Choose US START*/
 .choose-us {
     margin-bottom: 62px;
@@ -875,13 +837,11 @@ h1 > span{
 .choose-us .title{
     margin-bottom: 14px;
 }
-
 .choose-us h2 {
     letter-spacing: 0.5em;
     font: 18px 'dosis-regular', sans-serif;
     line-height: 1;
 }
-
 .choose-us h3 {
     font: 14px 'dosis-regular', sans-serif;
     letter-spacing: 0.4em;
@@ -914,7 +874,6 @@ h1 > span{
         text-align: center;
     }
 }
-
 /* Choose US END*/
 /* SLIDER START */
 .slider {
@@ -950,12 +909,10 @@ h1 > span{
 .slider .item blockquote .author {
     color: rgba(255, 255, 255, .3);
 }
-
 .slider .carousel-indicators {
   position: absolute;
   bottom: 30px;
 }
-
 .slider .carousel-indicators li {
     width: 9px !important;
     height: 9px !important;
@@ -1011,15 +968,12 @@ h1 > span{
 }
 /* SLIDER END */
 /* LATEST NEWS START */
-
 .latest-news{
     padding-bottom: 140px;
 }
-
 .latest-news .title {
     margin-bottom: 5px;
 }
-
 .latest-news .all-news {
     font-size: 11px;
     letter-spacing: .4em;
@@ -1027,19 +981,16 @@ h1 > span{
     font-family: 'dosis-regular', sans-serif;
     line-height: 18px;
 }
-
 .latest-news .all-news a:hover,
 .latest-news .all-news a:focus {
     color: #111;
     text-decoration: none;
 }
-
 .latest-news h2{
     font-size: 18px;
     font-family: 'dosis-regular', sans-serif;
     color: #111;
 }
-
 .latest-news a > .ln-item {
     margin-bottom: 30px;
     width: 100%;
@@ -1048,12 +999,10 @@ h1 > span{
     filter: grayscale(100%);
     transition: all .3s .5s;
 }
-
 .latest-news img:focus,
 .latest-news img:hover {
     filter: none;
 }
-
 .latest-news h3 {
     margin-bottom: 17px;
     font-family: 'dosis-regular', sans-serif;
@@ -1063,14 +1012,11 @@ h1 > span{
     text-transform: uppercase;
     line-height: 1;
 }
-
-
 .latest-news .news-data {
   padding-left: 12px;
   border-left: solid 1px #999;
   margin-left: 6px;
 }
-
 .latest-news span {
     font-family: 'dosis-regular', sans-serif;
     font-size: 11px;
@@ -1078,7 +1024,6 @@ h1 > span{
     color: #999;
     text-transform: uppercase;
 }
-
 .latest-news p {
     font-family: 'open-sans-light', sans-serif;
     line-height: 26px;
@@ -1087,7 +1032,6 @@ h1 > span{
     margin-top: 26px;
     margin-bottom: 29px;
 }
-
 .latest-news .btn-small{
     color: #777;
     padding: 9px 15px;
@@ -1098,12 +1042,10 @@ h1 > span{
     text-transform: uppercase;
     border-radius: 2px;
 }
-
 .latest-news .btn-default {
     background: #e5e5e5;
     border: #e5e5e5;
 }
-
 .latest-news .btn-default:hover,
 .latest-news .btn-default:focus {
     color: #111;
@@ -1120,7 +1062,6 @@ h1 > span{
         margin-bottom: 18px;
     }
 }
-
 @media (max-width: 767px) {
     .latest-news {
         padding-bottom: 80px;
@@ -1135,7 +1076,6 @@ h1 > span{
     }
 }
 /* LATEST NEWS START END */
-
 /* SUBSCrIBE START */
 .subscribe {
     padding-top: 59px;
@@ -1149,16 +1089,13 @@ h1 > span{
     text-transform: uppercase;
     margin-bottom: 21px;
 }
-
 .subscribe form {
     max-width: 426px;
     margin: 0 auto;
 }
-
 .subscribe {
     padding-bottom: 85px;
 }
-
 .subscribe .form-left{
     width: 293px;
 }
@@ -1225,9 +1162,7 @@ h1 > span{
         margin-top: 10px;
     }
 }
-
 /* SUBSCrIBE END */
-
 /* CONTACT START */
 .contact {
     padding-bottom: 140px;
@@ -1371,7 +1306,6 @@ h1 > span{
     }
 }
 /* CONTACT END */
-
 /* MAP START */
 .map {
     padding-top: 0;
@@ -1411,13 +1345,11 @@ h1 > span{
     transform: translateY(100%);
 }
 /* MAP END */
-
 /* FOOTER START */
 .footer {
   position: relative;
   padding-bottom: 61px;;
 }
-
 .footer .logo-footer {
   margin-bottom: 28px;
 }
@@ -1439,12 +1371,10 @@ h1 > span{
   color: #111;
   text-transform: uppercase;
 }
-
 .footer .comp-name i{
   letter-spacing: normal;
   margin-right: 16px;
 }
-
 .footer .comp-devis {
   display: block;
   font-family: 'open-sans-regular', sans-serif;
@@ -1452,16 +1382,13 @@ h1 > span{
   line-height: 24px;
   color: #999;
 }
-
 .footer a:hover,
 .footer a:focus {
     color: #fff;
     background: #111;
     transition: color .5s, background .5s ;
 }
-
 /*footer END*/
-
 /*SCROLL*/
 .scroll-up a{
   width: 90px;
@@ -1470,7 +1397,6 @@ h1 > span{
   bottom: 0;
   right: 0;
 }
-
 .scroll-up a:hover .fa-caret-up,
 .scroll-up a:focus .fa-caret-up{
   color: #000;
